@@ -1,0 +1,16 @@
+{
+    "name": "garmizilitnik/green-cultura",
+    "description": "Site",
+    "minimum-stability": "dev",
+    "require": {
+        "osoznan/patri": "1.0.0",
+    },
+    "authors": [
+        {
+            "name": "Garmizilitnik",
+            "email": "yuoanswami@gmail.com"
+        }
+    ],
+    "require-dev": {
+    }
+}

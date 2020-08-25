@@ -1,0 +1,14 @@
+.header-text {
+    text-shadow: 1px 1px 2px #95999c;
+    color: #333
+}
+
+.progress-indicator {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 50px;
+    left: 0;
+    top: 0;
+    text-align: center;
+}
